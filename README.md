@@ -30,6 +30,8 @@ Para iniciar la aplicación en modo producción: npm start
 
 ![image](https://github.com/user-attachments/assets/be420e17-b94d-4e38-bfcf-67c811d58e2a)
 
+![image](https://github.com/user-attachments/assets/a9811ef6-13d9-4167-a84e-c12043e509a6)
+
 ![image](https://github.com/user-attachments/assets/5c5f132f-2d1c-4fe9-b22b-2bb4149ad7d7)
 
 
